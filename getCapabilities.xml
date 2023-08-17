@@ -157,7 +157,7 @@
 				<Title>zones</Title>
 				<Abstract>GH:zones ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="171.08934955335548" miny="-43.90612029512586" maxx="172.6330896759368" maxy="-42.730673674254604"></LatLonBoundingBox>
@@ -177,7 +177,7 @@
 				<Title>development_areas</Title>
 				<Abstract>GH:development_areas ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="171.90755447978177" miny="-43.818498897093704" maxx="172.54834554456036" maxy="-43.32639222797206"></LatLonBoundingBox>
